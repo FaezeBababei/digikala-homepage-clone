@@ -8,7 +8,7 @@ A front-end clone of the Digikala homepage built for practicing HTML, CSS, and J
 
 ## 🔗 Live Demo
 
-🚧 Coming Soon...
+https://faezebababei.github.io/digikala-homepage-clone/
 
 ---
 
