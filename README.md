@@ -1,6 +1,14 @@
 # Digikala Homepage Clone
 
+![Homepage Screenshot](./screenshots/homepage.png)
+
 A front-end clone of the Digikala homepage built for practicing HTML, CSS, and JavaScript.
+
+---
+
+## 🔗 Live Demo
+
+🚧 Coming Soon...
 
 ---
 
@@ -13,8 +21,8 @@ The main goal of this project was to practice:
 - HTML5
 - CSS3
 - JavaScript
-- Responsive layout concepts (Future update)
-- Swiper Slider
+- Swiper.js
+- Website Layout Design
 
 ---
 
@@ -43,12 +51,13 @@ The main goal of this project was to practice:
 
 ## 📁 Project Structure
 
-```
+```text
 digikala-homepage-clone
 │
 ├── css/
 ├── font/
 ├── icon/
+├── screenshots/
 ├── index.html
 ├── main.js
 ├── lastswiper.js
